@@ -38,7 +38,7 @@ body {
 .text-below {
     bottom: -60px; /* Ajusta la posición vertical del texto debajo de la flor */
 }
-@keyframes pulsate {
+.keyframes pulsate {
   0% {
       transform: scale(1.5);
   }
